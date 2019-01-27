@@ -19,11 +19,11 @@ http://stream.shabakaty.com:6001/sport/ch7/ch7_720.m3u8
 http://stream.shabakaty.com:6001/sport/ch8/ch8_720.m3u8
 #EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b746fb256a02401c9418caebf09fb4ec.jpg",beIN SPORT 9 HD
 http://stream.shabakaty.com:6001/sport/ch9/ch9_720.m3u8
-#EXTINF:-1, tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b746fb256a02401c9418caebf09fb4ec.jpg",beIN SPORT 10 HD
+#EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b746fb256a02401c9418caebf09fb4ec.jpg",beIN SPORT 10 HD
 http://stream.shabakaty.com:6001/sport/ch10/ch10_720.m3u8
 #EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b746fb256a02401c9418caebf09fb4ec.jpg",beIN SPORT 11 HD
 http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
-#EXTINF:-1, tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b746fb256a02401c9418caebf09fb4ec.jpg",beIN SPORT 12 HD
+#EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b746fb256a02401c9418caebf09fb4ec.jpg",beIN SPORT 12 HD
 http://stream.shabakaty.com:6001/sport/ch12/ch12_720.m3u8
 #EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b746fb256a02401c9418caebf09fb4ec.jpg",beIN SPORT 13 HD
 http://stream.shabakaty.com:6001/sport/ch13/ch13_720.m3u8
@@ -181,23 +181,23 @@ http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
 http://stream.shabakaty.com:6001/enter/ch31/ch31_720.m3u8
 #EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/4edd5cf162d14c1e973edcde337cd3cb.png",OutDoor Channel HD
 http://stream.shabakaty.com:6001/enter/ch32/ch32_720.m3u8
-#EXTINF:-1,Channel 1 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3f0d99c6175d4060a1e2fd6feb4bfcf7.jpg",Baraem TV HD
 http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
-#EXTINF:-1,Channel 2 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies Kids HD
 http://stream.shabakaty.com:6001/kids/ch2/ch2_720.m3u8
-#EXTINF:-1,Channel 3 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/9cd96b762433472098253eb2b7a2e2c2.jpg",J TV HD
 http://stream.shabakaty.com:6001/kids/ch3/ch3_720.m3u8
-#EXTINF:-1,Channel 4 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/c8d2a9f0c91248aaa06c82e2c6860be9.jpg",MBC3 HD
 http://stream.shabakaty.com:6001/kids/ch4/ch4_720.m3u8
-#EXTINF:-1,Channel 5 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/4d296c26d71f439b997b128b124aabe7.png",Nickelodeon TV
 http://stream.shabakaty.com:6001/kids/ch5/ch5_720.m3u8
-#EXTINF:-1,Channel 6 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/d1471bcd33894d28a5455a3b06432306.jpg",Disnep TV HD
 http://stream.shabakaty.com:6001/kids/ch6/ch6_720.m3u8
-#EXTINF:-1,Channel 7 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/a9bf8add78cf46038e94f720ce8686ee.jpg",Boom Erang TV HD
 http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
-#EXTINF:-1,Channel 8 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/c5dcfef54d654d58b612cf2ec4c3e905.png",Fix & Foxi TV HD
 http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
-#EXTINF:-1,Channel 9 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/914ddaf6580a4093b711a5034cbf4f16.jpg",Gulli Arabic HD
 http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
-#EXTINF:-1,Channel 10 HD
+#EXTINF:-1, group-title="Kids" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/7b2d3fd2da9841c3a51ec25b2a070891.jpg",Be Junior TV HD
 http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
