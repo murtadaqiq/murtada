@@ -27,9 +27,9 @@ http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
 http://stream.shabakaty.com:6001/sport/ch12/ch12_720.m3u8
 #EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b746fb256a02401c9418caebf09fb4ec.jpg",beIN SPORT 13 HD
 http://stream.shabakaty.com:6001/sport/ch13/ch13_720.m3u8
-#EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/9c07ae16de4041faa69e2e4b897d60eb.jpg",OSN Sport HD
+#EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Sport HD
 http://stream.shabakaty.com:6001/sport/ch22/ch22_720.m3u8
-#EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/9c07ae16de4041faa69e2e4b897d60eb.jpg",OSN WWE HD
+#EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN WWE HD
 http://stream.shabakaty.com:6001/sport/ch14/ch14_720.m3u8
 #EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/611735c965cb457b8e2a0601fb774faa.jpg",alkass extra one
 http://stream.shabakaty.com:6001/sport/ch15/ch15_720.m3u8
@@ -45,88 +45,83 @@ http://stream.shabakaty.com:6001/sport/ch19/ch19_720.m3u8
 http://stream.shabakaty.com:6001/sport/ch20/ch20_720.m3u8
 #EXTINF:-1, group-title="Sport" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/af75ed0e0ee346ebbc68a540a96543fd.png",Abu Dhabi Sports 2
 http://stream.shabakaty.com:6001/sport/ch21/ch21_720.m3u8
-
-
-
-
-#EXTINF:-1,OSN Movies 1 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 1 HD
 http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
-#EXTINF:-1,OSN Movies 2 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 2 HD
 http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
-#EXTINF:-1,OSN Movies 3 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 3 HD
 http://stream.shabakaty.com:6001/movies/ch3/ch3_720.m3u8
-#EXTINF:-1,OSN Movies 4 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 4 HD
 http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
-#EXTINF:-1,Star Movies HD
-http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
-#EXTINF:-1,OSN Movies 5 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 5 HD
 http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
-#EXTINF:-1,OSN Movies 6 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 6 HD
 http://stream.shabakaty.com:6001/movies/ch7/ch7_720.m3u8
-#EXTINF:-1,beIn Movies 1 HD
-http://stream.shabakaty.com:6001/movies/ch8/ch8_720.m3u8
-#EXTINF:-1,beIn Movies 2 HD
-http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
-#EXTINF:-1,beIn Movies 3 HD
-http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
-#EXTINF:-1,beIn Movies 4 HD
-http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
-#EXTINF:-1,Star World HD
-http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
-#EXTINF:-1,OSN Movies 7 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 7 HD
 http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
-#EXTINF:-1,OSN Movies 8 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 8 HD
 http://stream.shabakaty.com:6001/movies/ch14/ch14_720.m3u8
-#EXTINF:-1,OSN Movies 9 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 9 HD
 http://stream.shabakaty.com:6001/movies/ch15/ch15_720.m3u8
-#EXTINF:-1,MBC MAX HD
-http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
-#EXTINF:-1,MBC Action HD
-http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
-#EXTINF:-1,OSN Movies 10 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 10 HD
 http://stream.shabakaty.com:6001/movies/ch18/ch18_720.m3u8
-#EXTINF:-1,MBC2 HD
-http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
-#EXTINF:-1,OSN Movies 11 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 11 HD
 http://stream.shabakaty.com:6001/movies/ch20/ch20_720.m3u8
-#EXTINF:-1,Rotana Cinema HD
-http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
-#EXTINF:-1,OSN Movies 12 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 12 HD
 http://stream.shabakaty.com:6001/movies/ch22/ch22_720.m3u8
-#EXTINF:-1,OSN Movies 13 HD
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Movies 13 HD
 http://stream.shabakaty.com:6001/movies/ch23/ch23_720.m3u8
-#EXTINF:-1,A Cinema 1
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/fd098f949b68441983ed4e5d932eee8b.png",beIn Movies 1 HD
+http://stream.shabakaty.com:6001/movies/ch8/ch8_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/fd098f949b68441983ed4e5d932eee8b.png",beIn Movies 2 HD
+http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/fd098f949b68441983ed4e5d932eee8b.png",beIn Movies 3 HD
+http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/fd098f949b68441983ed4e5d932eee8b.png",beIn Movies 4 HD
+http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/4e72060c15154b629bafe6374a772097.png",MBC2 HD
+http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/ff533e22e4bb4d1e8d501c2faa671aff.jpg",MBC Action HD
+http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/f44d0fa55d774ef392f7ba9e57a9ff90.jpg",MBC MAX HD
+http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/7bfce55d809a4c37bcf1c46ab92848d7.jpg",Star Movies HD
+http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/659300a58a894273ab9f5f91cbe55f8c.png",Star World HD
+http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/cdc2a73b21d14316ad905f89d11a9dd8.png",A Cinema 1
 http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
-#EXTINF:-1,A Cinema 2
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/cdc2a73b21d14316ad905f89d11a9dd8.png",A Cinema 2
 http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
+#EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/7cb6b126a4244516bec5727c172c45fd.jpg",Rotana Cinema HD
+http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
 
 
 
 
 
-
-#EXTINF:-1,Aljaded HD
-http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
-#EXTINF:-1,OSN Series HD
-http://stream.shabakaty.com:6001/series/ch2/ch2_720.m3u8
-#EXTINF:-1,MBC Drama HD
-http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
-#EXTINF:-1,beIN Series HD
-http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
-#EXTINF:-1,DMC Drama HD
-http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
-#EXTINF:-1,ORT Drama HD
-http://stream.shabakaty.com:6001/series/ch6/ch6_720.m3u8
-#EXTINF:-1,beIN Drama HD
-http://stream.shabakaty.com:6001/series/ch7/ch7_720.m3u8
-#EXTINF:-1,beIN Series 2 HD
-http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
-#EXTINF:-1,OSN First HD
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN First HD
 http://stream.shabakaty.com:6001/series/ch9/ch9_720.m3u8
-#EXTINF:-1,Rotana Drama HD
-http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
-#EXTINF:-1,FXHD
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Series HD
+http://stream.shabakaty.com:6001/series/ch2/ch2_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/62eb74895d084f4ab635819d6775e888.jpg",beIN Series 1 HD
+http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/62eb74895d084f4ab635819d6775e888.jpg",beIN Series 2 HD
+http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/62eb74895d084f4ab635819d6775e888.jpg",beIN Drama HD
+http://stream.shabakaty.com:6001/series/ch7/ch7_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/72c8679a14064fde9e4535ab5152196f.jpg",MBC Drama HD
+http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/a984469df411473b926adb6602830ae6.jpg",DMC Drama HD
+http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/80596aa9eeb840f9b260560e8612fb55.png",ORT Drama HD
+http://stream.shabakaty.com:6001/series/ch6/ch6_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/070c948d35f4450193db419f5e04a3b4.jpg",Aljaded HD
+http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/59ba382283d3495198c51fcbc790d864.jpg",FXHD
 http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
+#EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/c75d2478687a4eaaa0817c3782c9a978.jpg",Rotana Drama HD
+http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
 
 
 
