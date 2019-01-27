@@ -95,11 +95,6 @@ http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
 http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
 #EXTINF:-1, group-title="Movies" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/7cb6b126a4244516bec5727c172c45fd.jpg",Rotana Cinema HD
 http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
-
-
-
-
-
 #EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN First HD
 http://stream.shabakaty.com:6001/series/ch9/ch9_720.m3u8
 #EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/3752aad1133e4b5880d6419eb102e159.jpg",OSN Series HD
@@ -122,77 +117,70 @@ http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
 http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
 #EXTINF:-1, group-title="Series" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/c75d2478687a4eaaa0817c3782c9a978.jpg",Rotana Drama HD
 http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
-
-
-
-
-#EXTINF:-1,Channel 1 HD
-http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
-#EXTINF:-1,Channel 2 HD
-http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
-#EXTINF:-1,Channel 3 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/cc42799c3d7346e692ba621a312fce24.png",Nat Geo Wild HD
 http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
-#EXTINF:-1,Channel 4 HD
-http://stream.shabakaty.com:6001/enter/ch4/ch4_720.m3u8
-#EXTINF:-1,Channel 5 HD
-http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
-#EXTINF:-1,Channel 6 HD
-http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
-#EXTINF:-1,Channel 7 HD
-http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
-#EXTINF:-1,Channel 8 HD
-http://stream.shabakaty.com:6001/enter/ch8/ch8_720.m3u8
-#EXTINF:-1,Channel 9 HD
-http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
-#EXTINF:-1,Channel 10 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/05abc1e08146470ca8a463347f0bd853.png",Nat Geo People HD
 http://stream.shabakaty.com:6001/enter/ch10/ch10_720.m3u8
-#EXTINF:-1,Channel 11 HD
-http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
-#EXTINF:-1,Channel 12 HD
-http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
-#EXTINF:-1,Channel 13 HD
-http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
-#EXTINF:-1,Channel 14 HD
-http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
-#EXTINF:-1,Channel 15 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/a32d10d7c2c94e9daad82b8e883d451b.png",Nat Geo Abo Dhabi HD
 http://stream.shabakaty.com:6001/enter/ch15/ch15_720.m3u8
-#EXTINF:-1,Channel 16 HD
-http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
-#EXTINF:-1,Channel 17 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/7c7c0ca369184dff990610d1086de073.png",Nat Geo Channel HD
 http://stream.shabakaty.com:6001/enter/ch17/ch17_720.m3u8
-#EXTINF:-1,Channel 18 HD
-http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
-#EXTINF:-1,Channel 19 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/f2d89fa50e21459e87fab758de40a9e0.jpg",MBC HD
+http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/64f795d78eb64e9aad0f530931abe66e.jpg",MBC 4 HD
+http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b7a15c4cb3bf4164be24963c4b14742c.png",MBC Masr,
 http://stream.shabakaty.com:6001/enter/ch19/ch19_720.m3u8
-#EXTINF:-1,Channel 20 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/15467b53ee404eaca7963ea9a697fb75.png",IDx HD
+http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b73169dd20c94ca2b133bae1fe26546a.jpg",Discovery HD
+http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/f1f5e3b361c74f02be5ca3b3db290ea6.png",Food Network HD
+http://stream.shabakaty.com:6001/enter/ch4/ch4_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/acc2cc6744114603b46fb873c0ef1ae2.png",History HD
+http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/7f77351dbb09491bb97da35ea2677ff8.png",Everything Entertainment
+http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/bee9f4c4b40e4e208f12556e35dbe961.png",TLC HD
+http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/e7929c52c2d2455fa77ecb9c2ec019e7.jpg",FataFeat HD
+http://stream.shabakaty.com:6001/enter/ch8/ch8_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/5cdc0bf1ea3f4997ac64e650466b2b42.png",Sky Comedy HD
+http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/7d36087d599f433ea3cf292bf6d181ce.jpg",Discovery Dcience HD
+http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/edb28f5dbed549138cfa3933d160d079.png",AMC HD
+http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/f2d89fa50e21459e87fab758de40a9e0.jpg",MBC Variety HD
+http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/98d8831aff5e4573aaa67d9cea69b84b.png",Animal Planet HD
+http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/a984469df411473b926adb6602830ae6.jpg",DMC Entertainment HD
 http://stream.shabakaty.com:6001/enter/ch20/ch20_720.m3u8
-#EXTINF:-1,Channel 21 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/febfc41868e74bfd8d5f73ac4519e961.jpg",NRJ Hits HD
 http://stream.shabakaty.com:6001/enter/ch21/ch21_720.m3u8
-#EXTINF:-1,Channel 22 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/9f5a22fedeca45bea2cf69e3e2eab92c.jpg",Music Now HD
 http://stream.shabakaty.com:6001/enter/ch22/ch22_720.m3u8
-#EXTINF:-1,Channel 23 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/c1bd3b8bcd704afc88ddb8e9329e7347.jpg",Travel Channel HD
 http://stream.shabakaty.com:6001/enter/ch23/ch23_720.m3u8
-#EXTINF:-1,Channel 24 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/c3a500b698a6462098392dda2cc558ad.jpg",Alsharqiya HD
 http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
-#EXTINF:-1,Channel 25 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/5c6dd826a28a44f099b093ca57dfd79a.jpg",MTV HD
 http://stream.shabakaty.com:6001/enter/ch25/ch25_720.m3u8
-#EXTINF:-1,Channel 26 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/d93ddd4a319848bb828ab367c7bed549.jpg",FashionTV HD
 http://stream.shabakaty.com:6001/enter/ch26/ch26_720.m3u8
-#EXTINF:-1,Channel 27 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/dea184955d5c43b0b24779e483c4ba61.jpg",Dubai Television HD
 http://stream.shabakaty.com:6001/enter/ch27/ch27_720.m3u8
-#EXTINF:-1,Channel 28 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/6b21c2d0aa45491687573326314530db.jpg",Abo Dhabi TV HD
 http://stream.shabakaty.com:6001/enter/ch28/ch28_720.m3u8
-#EXTINF:-1,Channel 29 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/b5631ef82212463eb1ca13fccd5e0083.jpg",Sama Dubai TV HD
 http://stream.shabakaty.com:6001/enter/ch29/ch29_720.m3u8
-#EXTINF:-1,Channel 30 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/cf249aa0d51046f2a3ac296a7ab5b6ae.png",HGTV HD
 http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
-#EXTINF:-1,Channel 31 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/6b78b63e4f3b4c07890c4fa86758eb68.png",Fox Life HD
 http://stream.shabakaty.com:6001/enter/ch31/ch31_720.m3u8
-#EXTINF:-1,Channel 32 HD
+#EXTINF:-1, group-title="Entertainment" tvg-logo="https://shth3.shabakaty.com/share-thumbs/c99cd673-dcdb-4112-8978-dce41411a9b1/4edd5cf162d14c1e973edcde337cd3cb.png",OutDoor Channel HD
 http://stream.shabakaty.com:6001/enter/ch32/ch32_720.m3u8
-
-
-
 #EXTINF:-1,Channel 1 HD
 http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
 #EXTINF:-1,Channel 2 HD
